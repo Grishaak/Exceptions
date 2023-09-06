@@ -1,20 +1,20 @@
-from seminars_exeptions.HomeWork.InternetShop.Model.Client.ClientDataBase import ClientDateBase
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.DateBaseErrors.CategoryNotFoundError import \
+from seminars_exeptions.InternetShop.Model.Client.ClientDataBase import ClientDateBase
+from seminars_exeptions.InternetShop.Model.Exceptions.DateBaseErrors.CategoryNotFoundError import \
     CategoryNotFoundError
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.ClientErrors.ClientRefillRestrictionError import \
+from seminars_exeptions.InternetShop.Model.Exceptions.ClientErrors.ClientRefillRestrictionError import \
     ClientRefillRestrictionError
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.DateBaseErrors.DateBaseEmptyError import \
+from seminars_exeptions.InternetShop.Model.Exceptions.DateBaseErrors.DateBaseEmptyError import \
     DateBaseEmptyError
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.DateBaseErrors.ExceedDemandedQuantityError import \
+from seminars_exeptions.InternetShop.Model.Exceptions.DateBaseErrors.ExceedDemandedQuantityError import \
     ExceedDemandedQuantityError
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.ClientErrors.NotClientFoundError import \
+from seminars_exeptions.InternetShop.Model.Exceptions.ClientErrors.NotClientFoundError import \
     NotClientFoundError
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.DateBaseErrors.ProductNotFoundError import \
+from seminars_exeptions.InternetShop.Model.Exceptions.DateBaseErrors.ProductNotFoundError import \
     ProductNotFoundError
-from seminars_exeptions.HomeWork.InternetShop.Model.Product.ManageDateBase import ManageProduct
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.DateBaseErrors import InvalidEntityAppendError
-from seminars_exeptions.HomeWork.InternetShop.View.Messages import *
-from seminars_exeptions.HomeWork.InternetShop.Model.Product.Product import Product
+from seminars_exeptions.InternetShop.Model.Product.ManageDateBase import ManageProduct
+from seminars_exeptions.InternetShop.Model.Exceptions.DateBaseErrors import InvalidEntityAppendError
+from seminars_exeptions.InternetShop.View.Messages import *
+from seminars_exeptions.InternetShop.Model.Product.Product import Product
 
 
 class Presenter:

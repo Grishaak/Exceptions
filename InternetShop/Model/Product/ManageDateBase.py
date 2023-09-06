@@ -1,14 +1,14 @@
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.DateBaseErrors.CategoryNotFoundError import \
+from seminars_exeptions.InternetShop.Model.Exceptions.DateBaseErrors.CategoryNotFoundError import \
     CategoryNotFoundError
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.DateBaseErrors.DateBaseEmptyError import \
+from seminars_exeptions.InternetShop.Model.Exceptions.DateBaseErrors.DateBaseEmptyError import \
     DateBaseEmptyError
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.DateBaseErrors.ExceedDemandedQuantityError import \
+from seminars_exeptions.InternetShop.Model.Exceptions.DateBaseErrors.ExceedDemandedQuantityError import \
     ExceedDemandedQuantityError
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.DateBaseErrors.InvalidEntityAppendError import \
+from seminars_exeptions.InternetShop.Model.Exceptions.DateBaseErrors.InvalidEntityAppendError import \
     InvalidEntityAppendError
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.DateBaseErrors.ProductNotFoundError import \
+from seminars_exeptions.InternetShop.Model.Exceptions.DateBaseErrors.ProductNotFoundError import \
     ProductNotFoundError
-from seminars_exeptions.HomeWork.InternetShop.Model.Product.ProductListCategory import ProductListCategory
+from seminars_exeptions.InternetShop.Model.Product.ProductListCategory import ProductListCategory
 
 
 class ManageProduct:

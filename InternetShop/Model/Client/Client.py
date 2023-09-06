@@ -1,6 +1,6 @@
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.ClientErrors.ClientRefillRestrictionError import \
+from seminars_exeptions.InternetShop.Model.Exceptions.ClientErrors.ClientRefillRestrictionError import \
     ClientRefillRestrictionError
-from seminars_exeptions.HomeWork.InternetShop.Model.Product.Product import Product
+from seminars_exeptions.InternetShop.Model.Product.Product import Product
 
 
 class Client:

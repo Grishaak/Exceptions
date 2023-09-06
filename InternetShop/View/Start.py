@@ -1,5 +1,5 @@
 from Messages import scaner, print_text, error_text, general_menu, menu_admin, menu_client
-from seminars_exeptions.HomeWork.InternetShop.Presenter.Presenter import Presenter
+from seminars_exeptions.InternetShop.Presenter.Presenter import Presenter
 
 
 def start():

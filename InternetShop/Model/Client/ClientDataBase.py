@@ -1,5 +1,5 @@
-from seminars_exeptions.HomeWork.InternetShop.Model.Client.Client import Client
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.ClientErrors.NotClientFoundError import \
+from seminars_exeptions.InternetShop.Model.Client.Client import Client
+from seminars_exeptions.InternetShop.Model.Exceptions.ClientErrors.NotClientFoundError import \
     NotClientFoundError
 
 

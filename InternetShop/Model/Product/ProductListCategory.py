@@ -1,8 +1,8 @@
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.DateBaseErrors.ExceedDemandedQuantityError import \
+from seminars_exeptions.InternetShop.Model.Exceptions.DateBaseErrors.ExceedDemandedQuantityError import \
     ExceedDemandedQuantityError
-from seminars_exeptions.HomeWork.InternetShop.Model.Exceptions.DateBaseErrors.ProductNotFoundError import \
+from seminars_exeptions.InternetShop.Model.Exceptions.DateBaseErrors.ProductNotFoundError import \
     ProductNotFoundError
-from seminars_exeptions.HomeWork.InternetShop.Model.Product.Product import Product
+from seminars_exeptions.InternetShop.Model.Product.Product import Product
 
 
 class ProductListCategory:
